@@ -1,3 +1,5 @@
 node_modules
 key.json
+dist
 .env
+.vercel
